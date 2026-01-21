@@ -16,6 +16,7 @@ Motor and Servo Wires Plug - OPTIONAL; small plugs if you want to tuck the wires
 
 Case Body Bottom - Hayamini's design, but I modded the back holes to fit JST plugs through; use 2x SHCS M3x12, 2x M3 nut; print with mouse ears or brim recommended.
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/df99a9ca-140e-4848-bebc-e58ee7707334" />
+<img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/7805ec77-d61c-4c9e-9df1-e0a955518399" />
 
 Case Body Top - Hayamini's design, but I modded the serial port opening wider to allow room for the studs for attaching the serial cable. Use the same SHCS 4x M3x30, 4x M3 nut; print with mouse ears or brim recommended; supports aren't needed.
 
