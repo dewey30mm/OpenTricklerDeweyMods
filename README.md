@@ -5,4 +5,4 @@ I have made both Version 1 and 2 of the OpenTrickler, and it's my all-time favor
 
 I've included some of my personal mods and my mods of other contributors. Have a look around and see if anything jumps out.
 
-I also have some free designs if you're interested in additional 3DP reloading/precision tools on Printables if you're interested: https://www.printables.com/@DIY_Dewey
+I also have some free designs if you're interested in additional 3DP reloading/precision tools on Printables: https://www.printables.com/@DIY_Dewey
