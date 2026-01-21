@@ -5,7 +5,7 @@ Scale Shield - this mod has 2x cutouts on the left and right side for user prefe
 Feeder Plugs - Print these plugs to fill the unused cutouts in the modded scale shield.
 
 Adapter Plate - 3a - holes large enough for the servo/motor JST plugs, and holes for mounting Dirtbit's display controller housing while using my modded                         controller board side case.
-                3b - servo and motor JST holes only; NO holes for mounting display controller.
+                      3b - servo and motor JST holes only; NO holes for mounting display controller.
 
 Motor and Servo Wires Plug - OPTIONAL; small plugs if you want to tuck the wires even closer; I designed them but typically don't use them.
 
