@@ -6,4 +6,14 @@ I have made both Version 1 and 2 of the OpenTrickler, and it's my all-time favor
 
 I've included some of my personal mods and my mods of other contributors. Have a look around and see if anything jumps out.
 
+Mod highlights:
+- Hide the wires under the shield plate
+- New rear bearing plate works with Ball Powder, both in version 1 and 2 of the Open Trickler
+- Windowed front body using plexiglass, easily scored and cracked
+- Front/Back spacer plates for tighter fit
+- Wider top covers, easier to slide on
+- Plug for the Lee Hopper adapter
+- Small mods to Hayamini's controller board housing
+- More to come....
+
 I also have some free designs if you're interested in additional 3DP reloading/precision tools on Printables: https://www.printables.com/@DIY_Dewey
