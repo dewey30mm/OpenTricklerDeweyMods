@@ -1,4 +1,5 @@
 These mods route the servo and/or motor wires underneath the Adapter Plate for a CLEAN look and away from moving belts.
+<img width="1694" height="1125" alt="image" src="https://github.com/user-attachments/assets/b9791255-351a-4cf4-9a92-0aae780901c1" />
 
 Scale Shield - this mod has 2x cutouts on the left and right side for user preference. If you're using HayaminiNL's controller board side case (or my updated/modded version), the front cutout is for the servo wires, and the rear cutout is for the motor wires; recommend print with brim.
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/5ad8dc4d-4c23-40e6-bbc9-eafd298d0972" />
