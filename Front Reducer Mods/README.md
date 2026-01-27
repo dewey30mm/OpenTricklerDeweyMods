@@ -11,4 +11,6 @@ FrontVolumeReducerBack Spacers - bearing plates with added spacers, if you need 
 
 PlexiJigs - These are guides for scoring the plexiglass window. The final window size is 62mm x 38mm. You might only need the first 2 jigs, depending on your sheet size.
 
+Mattyy_P's Extended Servo Supports - I added them here as well, because I believe it is a excellent mod. These are the same STLs pulled from his contribution folder. Check it out for more info.
+
 Z.V2FrontBodyNoShutter -  This is not my mod, but this was provided in Discord. It is uploaded here for convenience if someone wanted to use it. Unknown author.
