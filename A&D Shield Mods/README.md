@@ -9,7 +9,7 @@ Feeder Plugs - Print these plugs to fill the unused cutouts in the modded scale 
 Adapter Plate - 3a - holes large enough for the servo/motor JST plugs, and holes for mounting Dirtbit's display controller housing while using my modded                         controller board side case; recommend print with brim.
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/3b4bc79d-951c-494d-aa22-9e4d8b3a8705" />
 
-                      3b - servo and motor JST holes only; NO holes for mounting display controller; recommend print with brim.
+3b - servo and motor JST holes only; NO holes for mounting display controller; recommend print with brim.
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/e1d9b86a-13dc-4666-a6be-0b48d2a1f5e1" />
 
 Motor and Servo Wires Plug - OPTIONAL; small plugs if you want to tuck the wires even closer; I designed them but typically don't use them.
