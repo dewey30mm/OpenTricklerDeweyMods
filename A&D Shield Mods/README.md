@@ -14,6 +14,7 @@ Adapter Plate - 3a - holes large enough for the servo/motor JST plugs, and holes
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/e1d9b86a-13dc-4666-a6be-0b48d2a1f5e1" />
 
 Motor and Servo Wires Plug - OPTIONAL; small plugs if you want to tuck the wires even closer; I designed them but typically don't use them.
+<img width="1214" height="914" alt="image" src="https://github.com/user-attachments/assets/738dcc88-c66a-4d1e-8f29-07996a11e02f" />
 
 Case Body Bottom - Hayamini's design, but I modded the back holes to fit JST plugs through; use 2x SHCS M3x12, 2x M3 nut; print with mouse ears or brim recommended.
 <img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/df99a9ca-140e-4848-bebc-e58ee7707334" />
