@@ -8,6 +8,7 @@ I have made both Version 1 and 2 of the OpenTrickler, and it's my all-time favor
 I've included some of my personal mods and my mods of other contributors. Have a look around and see if anything jumps out.
 
 Mod highlights:
+- Update: 2/7/2026 - Added Holster for the Powder Cup (A&D Lid Cover Mod)
 - Bearing plate for test fitting
 - Hide the wires under the shield plate
 - New rear bearing plate works with Ball Powder, both in version 1 and 2 of the Open Trickler
