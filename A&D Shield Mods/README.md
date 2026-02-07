@@ -24,3 +24,9 @@ Case Body Top - Hayamini's design, but I modded the serial port opening wider to
 <img width="1694" height="1125" alt="image" src="https://github.com/user-attachments/assets/f743205f-eb2a-4819-8a7f-15a74b063ea1" />
 
 Case Rear Bracket - Hayamini's unmodded design; copied for convenience; may need to rotate for printing; use 2x BHCS M3x10.
+
+Cup Holster - A secure place for storing the powder cup. Simply re-print the cover lid.
+<img width="884" height="1311" alt="image" src="https://github.com/user-attachments/assets/be5ae908-73c5-4b4b-ae7d-cde96847f60d" />
+<img width="980" height="1311" alt="image" src="https://github.com/user-attachments/assets/16af5420-8fa7-4d00-a966-bc2613d9df1f" />
+<img width="987" height="1311" alt="image" src="https://github.com/user-attachments/assets/8f5070ea-777f-4783-b555-60afe70516fe" />
+
